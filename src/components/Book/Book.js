@@ -5,8 +5,9 @@ export default class Book extends Component{
         return(
             <tr>
             <th>{this.props.year}</th>
-            <th> {this.props.title}</th>
             <th> {this.props.author}</th>
+
+            <th> {this.props.title}</th>
         </tr>
         )
     }
