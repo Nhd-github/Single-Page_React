@@ -1,0 +1,7 @@
+let coursesData = [
+    {id: 1, title: "20 Libs for js devs", price: 290_000, img:'/img/1.jpg',description:`Production Mock was a series of events we hosted for our dev interns in New York this summer. These events allow interns to explore the production side of software engineering: responding to live issues & incidents, investigating & debugging mysterious problems, and interfacing with users & the outside world`},
+    {id: 2, title: "React Course", price: 2_000_000, img:'/img/2.jpg',description:`Production Mock was a series of events we hosted for our dev interns in New York this summer. These events allow interns to explore the production side of software engineering: responding to live issues & incidents, investigating & debugging mysterious problems, and interfacing with users & the outside world`},
+    {id: 3, title: "Npm For Js Devs", price: "Free", img:'/img/3.jpg',description:`Production Mock was a series of events we hosted for our dev interns in New York this summer. These events allow interns to explore the production side of software engineering: responding to live issues & incidents, investigating & debugging mysterious problems, and interfacing with users & the outside world`},
+]
+
+export default coursesData
